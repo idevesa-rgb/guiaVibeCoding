@@ -1,0 +1,14 @@
+# Changelog
+
+All notable changes to XXXXX will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
+
+## 2025-12-04
+
+### Added
+- **Image generation API research report**: Comprehensive comparison of 7 APIs (Imagen, Gemini, Diffusion, Midjourney) for potential use in YouTube Thumbnail Lab
+  - Recommends Google Imagen 4 Fast ($0.02/image) as primary choice
+  - Gemini 2.5 Flash as alternative for better text rendering
+
+## 2025-12-03
