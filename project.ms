@@ -41,8 +41,10 @@
 ## 4. Configuración (SETUP)
 
 ### 🌿 Protocolo de Git
-* **Branching:** * NUNCA subir cambios directamente a `main`.
-    * Ramas: `feature/descripcion` o `fix/descripcion`.
+* **Branching:** * 
+    * SEIMPRE crear una feature branch antes de empezar cualquier cambio 
+    * NUNCA subir cambios directamente a `main`.
+    * Nombres Ramas: `feature/descripcion` o `fix/descripcion`.
 * **Workflow:**
     1. Crear rama: `git checkout -b feature/nombre`.
     2. Desarrollo y Test Local (`npm run dev`, `lint`, `build`).
